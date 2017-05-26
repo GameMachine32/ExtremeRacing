@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495842385 source:c:\temp\delete\prog\extremeracing\main.c
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+
+1266126614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
